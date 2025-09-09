@@ -6,13 +6,15 @@ This project provides a complete data analysis and visualization solution for at
 
 ## 📁 Project Structure
 
+```
+
 Attendance-Analytics/
 │
 ├── Attendance Dataset.xlsx     # Raw monthly attendance data of employees
 ├── Yearly Report.xlsx          # Summarized yearly attendance report
 └── Dashboard.pbix              # Power BI dashboard for interactive analysis
 
-
+```
 
 ---
 
