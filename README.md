@@ -6,21 +6,20 @@ This project provides a complete data analysis and visualization solution for at
 
 ## 📁 Project Structure
 
-📂 Attendance-Analytics/
-├── Attendance Dataset.xlsx   # Raw monthly attendance data of employees
-├── Yearly Report.xlsx        # Summarized yearly attendance report
-└── Dashboard.pbix            # Power BI dashboard file for interactive analysis
+Attendance-Analytics/
+│
+├── Attendance Dataset.xlsx     # Raw monthly attendance data of employees
+├── Yearly Report.xlsx          # Summarized yearly attendance report
+└── Dashboard.pbix              # Power BI dashboard for interactive analysis
+
 
 
 ---
 
 ## 📌 Description of Files
 
-| File | Description |
-|------|-------------|
-| **Attendance Dataset.xlsx** | Contains detailed raw attendance records (P/A/L) of employees for each day of the month. Useful for granular analysis. |
-| **Yearly Report.xlsx** | Aggregated data from the raw dataset, showing summaries like total presents, absents, leaves per employee. |
-| **Dashboard.pbix** | Interactive Power BI dashboard that visualizes attendance patterns, highlights employee-wise insights, and allows month/year filters. |
+**Attendance Dataset.xlsx** - Contains detailed raw attendance records (P/A/L) of employees for each day of the month. Useful for granular analysis.
+**Yearly Report.xlsx** - Aggregated data from the raw dataset, showing summaries like total presents, absents, leaves per employee.**Dashboard.pbix** - Interactive Power BI dashboard that visualizes attendance patterns, highlights employee-wise insights, and allows month/year filters.
 
 ---
 
